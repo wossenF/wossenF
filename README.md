@@ -1,103 +1,78 @@
-# 👋 Hi there, I'm Wossen
+<h2 align="center">Hi, I'm Wossen. Nice to see you 👋</h2>
+<h4 align="center">UI/UX Designer focused on SaaS, dashboards, and web applications that are simple, usable, and dev-friendly.</h4>
+<br />
 
-I’m a **UI/UX Designer with 4 years of experience** focused on designing SaaS products, dashboards, and web applications that are simple, usable, and scalable.
+<!-- DESIGN + PRODUCT STACK -->
+<div align="center">
 
-I specialize in turning complex systems into clean, structured, and user-friendly interfaces that improve workflow and user experience.
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-Recently, I’ve worked on a **task management system with CRM and email automation**, where I designed user flows, dashboards, and interaction patterns for real business use cases.
+</div>
+<br />
 
+<!-- FRONTEND / DEV STACK -->
+<div align="center">
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🎯 What I do
+</div>
+<br />
 
-- UI/UX Design for Web & Mobile Apps  
-- SaaS & Dashboard Design  
-- CRM & Workflow System Design  
-- User Flow & Journey Mapping  
-- Wireframing & Prototyping (Figma)  
-- UX Improvements & Interface Redesigns  
-- Landing Page Design  
+<!-- PROFILE META -->
+<div align="center">
 
+![Joined GitHub](https://img.shields.io/badge/Joined-2020-blue)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-__XX__-blue)
+![Location](https://img.shields.io/badge/Addis%20Ababa-ETH-ffb703)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" />
 
+</div>
 
-## 🎨 Design & No‑Code Stack
+<br />
 
-<p align="left">
-  <!-- Core UI/UX tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="Photoshop" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" width="40" height="40" alt="Illustrator" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" width="40" height="40" alt="Adobe XD" />
-  
-  <!-- Web / no‑code builders -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="40" height="40" alt="Webflow" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="40" height="40" alt="Framer" />
+<p>
+I’m a <strong>UI/UX Designer with 4 years of experience</strong> focused on designing SaaS products, dashboards, and web applications that are simple, usable, and scalable.
+I love turning complex workflows into clean, structured interfaces that help teams move faster and make better decisions.
 </p>
 
-<!-- If you use them, you can add: Canva icon as an image or badge -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<p>
+Recently, I designed a <strong>task management system with CRM and email automation</strong>, including user flows, dashboards, and interaction patterns for real business use cases.
 </p>
 
+<ul>
+  <li>🎯 UI/UX design for SaaS, dashboards, workflow tools, and web apps</li>
+  <li>🧭 User flows, journeys, and information architecture</li>
+  <li>📐 Wireframing, prototyping, and design systems in Figma</li>
+  <li>💻 Frontend-aware design: HTML, CSS, JavaScript, React basics</li>
+  <li>📱 Responsive, component-based UI that devs can actually implement</li>
+</ul>
 
+<h3>How I work</h3>
+<ul>
+  <li>Understand user & business goals</li>
+  <li>Map flows and states clearly</li>
+  <li>Create wireframes and iterate fast</li>
+  <li>Design clean UI in Figma (with components, variants, and tokens)</li>
+  <li>Prototype, test, and refine based on feedback</li>
+</ul>
 
-## 💻 Frontend & Dev Knowledge
-
-I also understand frontend development, which helps me design developer-friendly interfaces:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-</p>
-
-- Responsive design principles  
-- Working with components and design systems  
-- Communicating clearly with devs about states, edge cases, and constraints  
-
-
-
-## 🧠 My Design Approach
-
-I follow a simple but effective process:
-
-- Understand user & business goals  
-- Define user flows  
-- Create wireframes  
-- Design UI in Figma  
-- Build interactive prototypes  
-- Iterate based on feedback  
-
-I focus on **clarity, usability, and consistency — not just visuals**.
-
-
-
-## 💼 Experience Highlight
-
-### 🧩 Task Management System + CRM Integration
-
-I designed a system that helps teams manage tasks and client workflows more efficiently.
-
-**Key contributions:**
-
-- Designed task creation and tracking flows  
-- Built a structured dashboard for users and teams  
-- Improved navigation and usability  
-- Designed CRM interaction flows  
-- Simplified complex workflows into clear UI  
-
-
-
-## 🚀 What I’m focused on
-
-- SaaS product design  
-- Workflow-based systems  
-- Clean and scalable UI systems  
-- Improving user experience through simplicity  
-
-
-
-## 🤝 Let’s connect
-
-I’m open to working on:
-
-- SaaS platforms  
-- Web applications  
-- Dashboard systems  
-- Mobile apps  
-
-Let’s build products that are **simple, functional, and user-friendly**.
+<h3>What I’m looking for</h3>
+<ul>
+  <li>🚀 SaaS products and internal tools that need clear UX & modern UI</li>
+  <li>📊 Dashboards, admin panels, and workflow-based systems</li>
+  <li>🌐 Web apps and landing pages where UX directly impacts conversion</li>
+  <li>🤝 Remote-friendly teams that value collaboration between design and dev</li>
+</ul>
