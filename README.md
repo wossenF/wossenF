@@ -22,11 +22,10 @@ Recently, I’ve worked on a **task management system with CRM and email automat
 
 ## 🛠 Design Tools I use
 
-- Figma  
-- Adobe XD  
-- Photoshop  
-- Illustrator  
-- FigJam  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
+
 
 ---
 
