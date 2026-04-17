@@ -6,7 +6,7 @@ I specialize in turning complex systems into clean, structured, and user-friendl
 
 Recently, I’ve worked on a **task management system with CRM and email automation**, where I designed user flows, dashboards, and interaction patterns for real business use cases.
 
----
+
 
 ## 🎯 What I do
 
@@ -18,14 +18,14 @@ Recently, I’ve worked on a **task management system with CRM and email automat
 - UX Improvements & Interface Redesigns  
 - Landing Page Design  
 
----
+
 
 ## 🛠 Design Tools I use
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>
 
 
----
+
 
 ## 💻 Frontend Knowledge
 
@@ -36,7 +36,7 @@ I also understand frontend development, which helps me design developer-friendly
 - Basic JavaScript  
 - Responsive design principles  
 
----
+
 
 ## 🧠 My Design Approach
 
@@ -51,7 +51,7 @@ I follow a simple but effective process:
 
 I focus on **clarity, usability, and consistency — not just visuals**.
 
----
+
 
 ## 💼 Experience Highlight
 
@@ -67,7 +67,7 @@ I designed a system that helps teams manage tasks and client workflows more effi
 - Designed CRM interaction flows  
 - Simplified complex workflows into clear UI  
 
----
+
 
 ## 🚀 What I’m focused on
 
@@ -76,7 +76,7 @@ I designed a system that helps teams manage tasks and client workflows more effi
 - Clean and scalable UI systems  
 - Improving user experience through simplicity  
 
----
+
 
 ## 🤝 Let’s connect
 
