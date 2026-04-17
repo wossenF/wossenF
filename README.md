@@ -29,19 +29,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
-<br />
-
-<!-- PROFILE META -->
-<div align="center">
-
-![Joined GitHub](https://img.shields.io/badge/Joined-2020-blue)
-![Public Repos](https://img.shields.io/badge/Public%20Repos-__XX__-blue)
-![Location](https://img.shields.io/badge/Addis%20Ababa-ETH-ffb703)
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" />
-
-</div>
-
-<br />
 
 <p>
 I’m a <strong>UI/UX Designer with 4 years of experience</strong> focused on designing SaaS products, dashboards, and web applications that are simple, usable, and scalable.
